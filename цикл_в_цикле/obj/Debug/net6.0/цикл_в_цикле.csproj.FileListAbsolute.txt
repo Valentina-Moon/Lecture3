@@ -1,0 +1,15 @@
+C:\Users\Tseh\Desktop\Lesson_3\цикл_в_цикле\bin\Debug\net6.0\цикл_в_цикле.exe
+C:\Users\Tseh\Desktop\Lesson_3\цикл_в_цикле\bin\Debug\net6.0\цикл_в_цикле.deps.json
+C:\Users\Tseh\Desktop\Lesson_3\цикл_в_цикле\bin\Debug\net6.0\цикл_в_цикле.runtimeconfig.json
+C:\Users\Tseh\Desktop\Lesson_3\цикл_в_цикле\bin\Debug\net6.0\цикл_в_цикле.dll
+C:\Users\Tseh\Desktop\Lesson_3\цикл_в_цикле\bin\Debug\net6.0\цикл_в_цикле.pdb
+C:\Users\Tseh\Desktop\Lesson_3\цикл_в_цикле\obj\Debug\net6.0\цикл_в_цикле.csproj.AssemblyReference.cache
+C:\Users\Tseh\Desktop\Lesson_3\цикл_в_цикле\obj\Debug\net6.0\цикл_в_цикле.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tseh\Desktop\Lesson_3\цикл_в_цикле\obj\Debug\net6.0\цикл_в_цикле.AssemblyInfoInputs.cache
+C:\Users\Tseh\Desktop\Lesson_3\цикл_в_цикле\obj\Debug\net6.0\цикл_в_цикле.AssemblyInfo.cs
+C:\Users\Tseh\Desktop\Lesson_3\цикл_в_цикле\obj\Debug\net6.0\цикл_в_цикле.csproj.CoreCompileInputs.cache
+C:\Users\Tseh\Desktop\Lesson_3\цикл_в_цикле\obj\Debug\net6.0\цикл_в_цикле.dll
+C:\Users\Tseh\Desktop\Lesson_3\цикл_в_цикле\obj\Debug\net6.0\refint\цикл_в_цикле.dll
+C:\Users\Tseh\Desktop\Lesson_3\цикл_в_цикле\obj\Debug\net6.0\цикл_в_цикле.pdb
+C:\Users\Tseh\Desktop\Lesson_3\цикл_в_цикле\obj\Debug\net6.0\цикл_в_цикле.genruntimeconfig.cache
+C:\Users\Tseh\Desktop\Lesson_3\цикл_в_цикле\obj\Debug\net6.0\ref\цикл_в_цикле.dll
