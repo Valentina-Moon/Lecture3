@@ -1,0 +1,15 @@
+C:\Users\Tseh\Desktop\Lesson_3\FOR\bin\Debug\net6.0\FOR.exe
+C:\Users\Tseh\Desktop\Lesson_3\FOR\bin\Debug\net6.0\FOR.deps.json
+C:\Users\Tseh\Desktop\Lesson_3\FOR\bin\Debug\net6.0\FOR.runtimeconfig.json
+C:\Users\Tseh\Desktop\Lesson_3\FOR\bin\Debug\net6.0\FOR.dll
+C:\Users\Tseh\Desktop\Lesson_3\FOR\bin\Debug\net6.0\FOR.pdb
+C:\Users\Tseh\Desktop\Lesson_3\FOR\obj\Debug\net6.0\FOR.csproj.AssemblyReference.cache
+C:\Users\Tseh\Desktop\Lesson_3\FOR\obj\Debug\net6.0\FOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tseh\Desktop\Lesson_3\FOR\obj\Debug\net6.0\FOR.AssemblyInfoInputs.cache
+C:\Users\Tseh\Desktop\Lesson_3\FOR\obj\Debug\net6.0\FOR.AssemblyInfo.cs
+C:\Users\Tseh\Desktop\Lesson_3\FOR\obj\Debug\net6.0\FOR.csproj.CoreCompileInputs.cache
+C:\Users\Tseh\Desktop\Lesson_3\FOR\obj\Debug\net6.0\FOR.dll
+C:\Users\Tseh\Desktop\Lesson_3\FOR\obj\Debug\net6.0\refint\FOR.dll
+C:\Users\Tseh\Desktop\Lesson_3\FOR\obj\Debug\net6.0\FOR.pdb
+C:\Users\Tseh\Desktop\Lesson_3\FOR\obj\Debug\net6.0\FOR.genruntimeconfig.cache
+C:\Users\Tseh\Desktop\Lesson_3\FOR\obj\Debug\net6.0\ref\FOR.dll
